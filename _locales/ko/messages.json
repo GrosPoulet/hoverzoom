@@ -499,6 +499,18 @@
         "message": "밀리초",
         "description": "[options] Unit name (pixel) for hold time amount"
     },
+    "optScrollWheelCooldown": {
+        "message": "스크롤 대기 시간:",
+        "description": "[options] Mouse scroll wheel cooldown"
+    },
+    "optScrollWheelCooldownTooltip": {
+        "message": "또다른 동작을 실행하기 전, 스크롤 이벤트 사이에 요구되는 시간 간격",
+        "description": "[options] Tooltip for mouse scrollwheel delay"
+    },
+    "optScrollWheelCooldownUnit": {
+        "message": "밀리초",
+        "description": "[options] Unit name (pixel) for hold time amount"
+    },
     "optSectionZoomSpeed": {
         "message": "확대 속도",
         "description": "[options] Page section for zoom speed"
